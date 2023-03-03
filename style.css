@@ -1,0 +1,10 @@
+#form_el {
+  display: inline-block;
+}
+#switch-mode {
+  float: right;
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: x-large;
+}
